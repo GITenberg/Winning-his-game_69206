@@ -1,0 +1,44 @@
+_repo: Winning-his-game_69206
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Louderback, Walt
+    alias: Louderback, Walter
+    birthdate: 1887
+    deathdate: 1941
+    gutenberg_agent_id: '33504'
+    url: http://www.gutenberg.org/2009/agents/33504
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2022-10-22'
+identifiers:
+  gutenberg: '69206'
+  lccn: '17008583'
+language: en
+pgterms:marc905: 20170520142655barbour
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'United States: D. Appleton and Company,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Grafton series
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcsh 'Competition -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Winning his game
+url: http://www.gutenberg.org/ebooks/69206
